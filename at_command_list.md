@@ -1,0 +1,14 @@
+```
+ - ATI1
+ - AT+CPIN?
+ - AT+COPS?
+ - AT+CREG?
+ - AT+CGREG?
+ - AT+CEREG?
+ - AT+CNUM
+ - AT^SMONI
+ - AT+CGDCONT?
+ - AT+CGCONTRDP
+ - AT+CGPADDR
+
+```
