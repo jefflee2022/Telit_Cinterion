@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # This is a sample Python script for MQTT test 
-$ TX62-W(B) & (m)PLS-62 modules was tested .
+# TX62-W(B) & (m)PLS-62 modules was tested .
 # scripted by jefflee@ocube.co.kr
 
 # Press Shift+F10 to execute it or replace it with your code.
