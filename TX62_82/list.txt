@@ -1,3 +1,20 @@
-1. 
-2.
-3.
+1. 유저 가이드 
+TC_TX62-W_TX82-W-x_Hardware_Interface_Description_User_Guide_v01.200e_r0.pdf
+
+2. Devkit / DSB75 개발 보드 기반 사용자 가이드
+   기본 AT 커맨드 , 사용방법 , 인터넷 통신 가이드 
+   AT 명령어 설명 
+     TC_TX62-W_AT_Command_Set_User_Guide_01.200_r0.pdf
+   펌웨어 관련
+     TC_EXSx2-W_TXx2-W_Updating_Firmware_Application_Note_r0.pdf
+   PC 기반 FW 업데이트 
+     TC_EXSx2_TXx2_an17_FOTA_Application_Note_r0.pdf
+   클라우드 기반 OTA 업데이트   
+     망 신호 
+       TC_Signal_Strength_Bar_Configuration_User_Guide_r0.pdf
+   SMT 가이드
+     TC_TXx2-W_SMT_Modules_Integration_Application_Note_r0.pdf
+   HID 하드웨어 인터페이스 가이드
+     TC_TX62-W_TX82-W-x_Hardware_Interface_Description_User_Guide_v01.200e_r0.pdf
+7. 레퍼런스 회로도 
+   tx62_tn23_reference.pdf
